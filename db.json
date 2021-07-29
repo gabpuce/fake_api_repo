@@ -10,5 +10,10 @@
     "post": {
       "belongsTo": "Post"
     }
+  },
+  "User":{
+    "id":1,
+    "firstName":"Gabriele",
+    "lastName":"Puce"
   }
 }
