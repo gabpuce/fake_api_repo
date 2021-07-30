@@ -11,7 +11,7 @@
       "belongsTo": "Post"
     }
   },
-  "User":{
+  "user":{
     "id":1,
     "firstName":"Gabriele",
     "lastName":"Puce"
