@@ -84,5 +84,6 @@
             "title": "Deck 19",
             "deckNumber": "19"
         }
-    ]
+    ],
+    "categories": [{"key":"test-mirco","title":"Test Mirco","color":"","icon":"/content/dam/costa/icons/Christmas.svg"},{"key":"cabin-list","title":"Cabine","color":"#63666A","icon":""},{"key":"facilities-list","title":"Servizi","color":"#9ABF62","icon":""},{"key":"lounge-list","title":"Bar","color":"#E1852B","icon":""},{"key":"wellness-and-sport-list","title":"Sport","color":"#6DAAC9","icon":""},{"key":"kids-list","title":"Kids","color":"#F9B104","icon":""},{"key":"shops-list","title":"Shop","color":"#005A82","icon":""},{"key":"useful-info-list","title":"Useful Info","color":"#99BF61","icon":""},{"key":"smart-drill","title":"Muster station","color":"","icon":"/content/dam/deck-plan-icons/Muster-station-Icon.svg"},{"key":"elevators","title":"Elevators","color":"","icon":"/content/dam/deck-plan-icons/Elevators.svg"},{"key":"IPM","title":"IPM position","color":"","icon":"/content/dam/deck-plan-icons/YouAreHere.svg"},{"key":"muster-station","title":"Muster","color":"","icon":"/content/dam/deck-plan-icons/Muster-station-Icon.svg"}]
 }
