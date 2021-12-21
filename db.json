@@ -7,7 +7,245 @@
             "path": "/content/dam/deck-plan/sm/SMERALDA-DECK-03-edited.svg",
             "backPath": "/content/dam/deck-plan/sm/SMERALDA-DECK-03-DOWN-edited.svg",
             "title": "Deck 03",
-            "deckNumber": "03"
+            "deckNumber": "03",
+            "svg": "<svg id="DECK-3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 159.61 1259.07">
+   <defs>
+      <pattern id="COSTA_DEF" data-name="COSTA DEF" x="-281.8" y="-17.52" width="26.43" height="26.43" patternUnits="userSpaceOnUse" viewBox="0 0 26.43 26.43">
+         <rect width="26.43" height="26.43" style="fill:none"/>
+         <line x1="52.48" y1="52.48" x2="25.78" y2="25.78" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="26.05" y1="52.48" x2="-0.65" y2="25.78" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="29.36" y1="49.17" x2="2.66" y2="22.47" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="32.66" y1="45.87" x2="5.96" y2="19.17" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="35.97" y1="42.56" x2="9.27" y2="15.86" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="2.93" y1="49.17" x2="-23.77" y2="22.47" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="6.24" y1="45.87" x2="-20.46" y2="19.17" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="9.54" y1="42.56" x2="-17.16" y2="15.86" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="52.48" y1="26.05" x2="25.78" y2="-0.65" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="26.05" y1="26.05" x2="-0.65" y2="-0.65" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="29.36" y1="22.75" x2="2.66" y2="-3.95" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="32.66" y1="19.44" x2="5.96" y2="-7.26" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="35.97" y1="16.14" x2="9.27" y2="-10.56" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="2.93" y1="22.75" x2="-23.77" y2="-3.95" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="6.24" y1="19.44" x2="-20.46" y2="-7.26" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="9.54" y1="16.14" x2="-17.16" y2="-10.56" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+      </pattern>
+      <pattern id="COSTA_DEF-5" data-name="COSTA DEF" width="26.43" height="26.43" patternUnits="userSpaceOnUse" viewBox="0 0 26.43 26.43">
+         <rect width="26.43" height="26.43" style="fill:none"/>
+         <line x1="52.48" y1="52.48" x2="25.78" y2="25.78" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="26.05" y1="52.48" x2="-0.65" y2="25.78" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="29.36" y1="49.17" x2="2.66" y2="22.47" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="32.66" y1="45.87" x2="5.96" y2="19.17" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="35.97" y1="42.56" x2="9.27" y2="15.86" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="2.93" y1="49.17" x2="-23.77" y2="22.47" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="6.24" y1="45.87" x2="-20.46" y2="19.17" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="9.54" y1="42.56" x2="-17.16" y2="15.86" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="52.48" y1="26.05" x2="25.78" y2="-0.65" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="26.05" y1="26.05" x2="-0.65" y2="-0.65" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="29.36" y1="22.75" x2="2.66" y2="-3.95" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="32.66" y1="19.44" x2="5.96" y2="-7.26" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="35.97" y1="16.14" x2="9.27" y2="-10.56" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="2.93" y1="22.75" x2="-23.77" y2="-3.95" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="6.24" y1="19.44" x2="-20.46" y2="-7.26" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+         <line x1="9.54" y1="16.14" x2="-17.16" y2="-10.56" style="fill:none;stroke:#888b8d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.4px"/>
+      </pattern>
+   </defs>
+   <title>SMERALDA-DECK-3-Grey</title>
+   <g id="DECK-3-BOAT">
+      <path d="M282.48,318.18,281.87,377l.52,122.42L282.34,707l-.49,18.86L281.94,878l-.14,321.64,2.73,53.44a23.23,23.23,0,0,0,1.77,7.23,27.84,27.84,0,0,0,15.43,13.89,31,31,0,0,0,11.17,2.17c5.46-.14,47.77,0,48.21,0l48.29-.07c.37,0,9.13-.59,11.14-1.8.26-.16,1.08-.48,1.6-.73l3.52-1.84c6.7-4.53,12.73-11.77,12.77-23.69l2.29-48-1.14-473.08.18-2V707.2l.69-137.38-.17-78.05L440.71,376h.09l.19-57.87c-.83-14.79.94-84.7-13.42-136.21-.07-.25-6.5-25.68-12.3-38.82-4.63-11.57-28-67.07-28.19-67.61-.81-2.23-19.81-48.6-25.3-57.34l-.25-.17-.25.17c-5.8,5.91-25,56.18-25.82,58.4-.23.55-23.37,55.5-28,67.07-5.81,13.15-12.26,38.78-12.32,39-3.65,12.05-5.73,25.65-7.41,39.76-3.15,26.53-4,52-4.64,70.05C282.59,306.25,282.55,315.77,282.48,318.18Z" transform="translate(-281.8 -17.52)" style="fill:#fff"/>
+   </g>
+   <g id="DECK-3-NO_AREA" data-name="DECK-3-NO AREA">
+      <polygon points="19.68 397.8 19.68 396.92 19.81 379.3 0.54 379.3 0.93 474.21 0.83 553.15 1.64 689.4 20.4 689.56 20.1 669.22 20.09 668.32 20.99 668.32 99.25 668.45 100.36 668.45 140.07 668.35 140.96 668.35 140.96 669.23 141.03 689.42 157.62 689.42 158.66 552.9 158.49 475.97 158.78 379.34 139.34 379.34 139.47 397.34 139.47 398.22 138.59 398.22 105.35 398.28 105.37 465.81 105.37 466.69 104.3 466.69 92.33 466.69 90.44 466.57 90.41 464.69 90.52 455.76 54.12 455.88 53.24 455.88 53.24 454.99 53.26 397.76 20.56 397.8 19.68 397.8" style="fill:url(#COSTA_DEF)"/>
+      <polygon points="85.98 436.69 74.41 436.69 63.13 436.69 63.13 446.69 97.23 446.69 97.23 436.69 88.13 436.69 85.98 436.69" style="fill:url(#COSTA_DEF)"/>
+      <path d="M334.07,1275h0Z" transform="translate(-281.8 -17.52)" style="fill:url(#COSTA_DEF-5)"/>
+      <path d="M282.35,377l158.53.08.1-58.75c0-.47-.74-41.39-3.36-77.36-2.39-32.75-9-55.18-9.85-57.94l-.18-.63c-.82-3.18-7.23-27.67-12.31-39.18-4.64-11.6-27.34-65.66-27.57-66.19-8.29-19.83-21-51.95-26.27-59.1-6,7.77-18.49,38.89-26.14,58.78L334.79,78c-7,16.76-23.72,56.85-27.55,66.43C301.58,157.21,295.33,182,295.07,183c-12.52,45-12.42,129.61-12.6,136Z" transform="translate(-281.8 -17.52)" style="fill:url(#COSTA_DEF-5)"/>
+      <path d="M284.46,1252.81c1,7.71,5.17,17.07,18.25,21.53a27.41,27.41,0,0,0,7.67,1.76c.36,0,5.27.22,5.64.2,1.67-.12,8.62,0,17.07,0,14.39,0,30.56,0,30.74,0h45.5c4-.36,10.39-1.29,11.32-1.84.3-.19,2.86-1.43,3.44-1.76,3.2-1.82,7.69-4.42,11.63-12.1a43.57,43.57,0,0,0,2.58-9.44l2.39-50.59-.79-318.69-.34-156.4-52.32.29.1,77.56-43.21.07v19l-61.92.22.1,377.89Z" transform="translate(-281.8 -17.52)" style="fill:url(#COSTA_DEF-5)"/>
+      <polygon points="50.89 759.85 56.11 759.88 56.03 747.01 50.89 747.12 50.89 759.85" style="fill:url(#COSTA_DEF)"/>
+      <polygon points="16.6 755.39 24.28 755.32 24.35 747.93 16.31 748.01 16.6 755.39" style="fill:url(#COSTA_DEF)"/>
+      <path d="M318.68,802.84l8.24.12c0-.58.19-6.39.19-6.39l-4.43-3.31-4.59.06,0,5.41Z" transform="translate(-281.8 -17.52)" style="fill:url(#COSTA_DEF-5)"/>
+   </g>
+   <g id="DECK-3-AREA">
+      <g id="Services">
+         <path id="Automatic_Credit_Card_Registration-Top" data-name="Automatic Credit Card Registration-Top" d="M366.68,454.23h-9.4v-9.4h9.4Z" transform="translate(-281.8 -17.52)" style="fill:#b2b2b2"/>
+         <path id="Automatic-Credit-Card-Registration-2-area" d="M378.21,786.22h-9.4v-9.4h9.4Z" transform="translate(-281.8 -17.52)" style="fill:#b2b2b2"/>
+         <path id="Medical-Service-area" d="M337.93,802.85l0-72-16.44-.09v-5.05l-27.22,0-12,0,0,96.92,44.8-.17-.11-4.77V802.82Zm-5.24-38.21,5.14-.11.09,12.86-5.23,0ZM306.12,773l-7.94,0-.07-7.53,8,0Zm20.8,30-8.24-.12-.55-4.11,0-5.41,4.59-.06,4.43,3.31S326.91,802.38,326.92,803Z" transform="translate(-281.8 -17.52)" style="fill:#b2b2b2"/>
+         <path id="Gangway_Exit-DX-2-area" data-name="Gangway/Exit-DX-2-area" d="M413.76,725.54V707l26,0V725.4Z" transform="translate(-281.8 -17.52)" style="fill:#b2b2b2"/>
+         <path id="Gangway_Exit-Sx-Center" data-name="Gangway/Exit-Sx-Center" d="M282,725.77l.53-18.84,25.85,0v18.73Z" transform="translate(-281.8 -17.52)" style="fill:#b2b2b2"/>
+         <path id="Gangway_Exit-Dx-Top" data-name="Gangway/Exit-Dx-Top" d="M421.18,396.78l-.07,19-34.27,0V377l37.88,0,16.21-.09-.08,19.85Z" transform="translate(-281.8 -17.52)" style="fill:#b2b2b2"/>
+         <path id="Gangway_Exit-Dx-Top-2" data-name="Gangway/Exit-Dx-Top" d="M301.52,415.25V396.78l-19.4.06L282,377h15.5l37.79,0v38.22Z" transform="translate(-281.8 -17.52)" style="fill:#b2b2b2"/>
+      </g>
+   </g>
+   <g id="DECK-3-OUTLINE">
+      <g id="Lines">
+         <path d="M440.69,377S445,235.62,427.81,182.94c0,0-6.24-25.36-12.09-38.63-4.69-11.7-28.1-67.5-28.1-67.5s-21.43-53.47-26.14-58.93h0c-6.19,6.16-26.15,58.93-26.15,58.93s-23.41,55.8-28.09,67.5c-5.86,13.27-12.1,38.63-12.1,38.63C279.87,229.13,282.26,377,282.26,377Z" transform="translate(-281.8 -17.52)" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <polyline points="158.8 379.06 158.37 475.25 158.63 553.29 157.72 689.47 140.94 689.47 140.94 668.4 96.64 668.4 96.64 688.41" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <line x1="96.45" y1="785.85" x2="96.45" y2="757.24" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <polyline points="0.46 853.23 0.46 708.2 56.13 708.2" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <polyline points="39.74 708.15 39.74 713.28 56.13 713.28 56.13 785.33 45.14 785.33 45.14 800.29 24.66 800.29 24.66 792.68" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <polyline points="0.52 805.11 62.24 804.85 62.23 756.98" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <path d="M344.06,803.37h43.28l-.11-77.65,52.29-.39L439.85,870l.06,10.28.78,320.76-2.36,49.22A27.06,27.06,0,0,1,423.5,1273a29.76,29.76,0,0,1-2.71,1.34,50.87,50.87,0,0,1-8.2,1.62,36.85,36.85,0,0,1-5,.34H361.48s-42.18.08-48.39,0a35.8,35.8,0,0,1-10.54-2,39.69,39.69,0,0,1-7.3-3.65,24.13,24.13,0,0,1-10.93-19.41l-2.06-50.69V870.75" transform="translate(-281.8 -17.52)" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <polyline points="97.23 436.75 97.23 446.63 63.15 446.63 63.15 436.75 88.15 436.75" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <polyline points="159.04 379.26 139.38 379.26 139.38 398.25 105.3 398.25 105.3 466.67 90.47 466.67 90.47 455.74 53.27 455.74 53.27 397.73 19.71 397.73 19.71 379.26 0.58 379.26" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <line x1="23.6" y1="785.34" x2="45.65" y2="785.34" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <line x1="18.41" y1="805.05" x2="18.41" y2="794.63" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <polyline points="18.22 788.2 18.22 784.88 0.45 784.88" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <polyline points="0.46 773.56 18.22 773.56 18.22 765.96" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <line x1="18.22" y1="759.91" x2="0.66" y2="759.91" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <polyline points="0.2 748.13 16.46 748.13 16.46 755.42 18.22 755.42 24.27 755.42 24.27 734.22 18.32 734.22 18.32 748 24.22 748" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <line x1="36.23" y1="759.84" x2="56.15" y2="759.84" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <polyline points="50.93 759.97 50.93 747.09 56 747.09" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <polyline points="50.8 742.28 50.8 731.62 51.45 727.58 55.97 727.58" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <polyline points="44.69 728.23 24.14 728.23 24.14 724.33 21.79 724.33 21.79 716.4 27.65 716.4 27.65 708.15" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <line x1="18.22" y1="713.54" x2="18.22" y2="708.25" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <line x1="0.48" y1="721.34" x2="18.57" y2="721.34" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <line x1="50.93" y1="735.91" x2="56.17" y2="735.91" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <polyline points="45.21 759.91 45.21 733.96 30.64 733.96 30.64 742.8" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <polyline points="44.95 746.83 29.86 746.83 29.86 759.84 32.59 759.84" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <line x1="32.46" y1="773.24" x2="32.46" y2="781.04" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <polygon points="35.84 766.08 41.04 766.08 41.04 775.84 37.92 775.84 37.92 768.82 35.71 768.82 35.84 766.08" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <polyline points="36.75 785.2 36.36 781.3 24 781.3 24 765.82 32.2 765.82 32.2 769.47" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <polyline points="56.39 776.75 50.41 776.75 45.25 779.01 41.04 775.84" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <line x1="36.36" y1="781.3" x2="36.36" y2="775.71" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <line x1="18.22" y1="784.88" x2="18.22" y2="780.26" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <polyline points="100.36 668.4 20.17 668.4 20.36 689.47 0.99 689.47 0.72 553.29 0.98 475.25 0.55 379.01" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <line x1="62.47" y1="688.41" x2="62.47" y2="668.41" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         <line x1="45.13" y1="780.2" x2="45.13" y2="785.28" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+      </g>
+      <g id="Elevators">
+         <g id="Elevator-Center">
+            <polyline points="85.76 711.02 85.76 707.86 96.49 707.86 96.49 751.86 85.76 751.86 85.76 748.69" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+            <line x1="85.76" y1="722.02" x2="85.76" y2="716.1" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+            <line x1="85.76" y1="733.02" x2="85.76" y2="727.11" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+            <line x1="85.76" y1="744.57" x2="85.76" y2="738.38" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+            <line x1="96.46" y1="741.27" x2="85.88" y2="741.27" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+            <line x1="96.46" y1="729.99" x2="85.88" y2="729.99" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+            <line x1="96.46" y1="718.99" x2="85.88" y2="718.99" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+            <polyline points="73.25 711.02 73.25 707.86 62.52 707.86 62.52 751.86 73.25 751.86 73.25 748.69" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+            <line x1="73.25" y1="722.02" x2="73.25" y2="716.1" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+            <line x1="73.25" y1="733.02" x2="73.25" y2="727.11" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+            <line x1="73.25" y1="744.57" x2="73.25" y2="738.38" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+            <line x1="62.61" y1="741.27" x2="73.2" y2="741.27" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+            <line x1="62.61" y1="729.99" x2="73.2" y2="729.99" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+            <line x1="62.61" y1="718.99" x2="73.2" y2="718.99" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+            <g id="Elevator-Icon">
+               <path d="M348.56,731.55H351l-1.21,2.12Zm1.21-3.62L348.56,730H351Z" transform="translate(-281.8 -17.52)" style="fill:#63666a"/>
+               <path d="M348.56,742.66H351l-1.21,2.11Zm1.21-3.63-1.21,2.11H351Z" transform="translate(-281.8 -17.52)" style="fill:#63666a"/>
+               <path d="M348.56,753.7H351l-1.21,2.12Zm1.21-3.62-1.21,2.11H351Z" transform="translate(-281.8 -17.52)" style="fill:#63666a"/>
+               <path d="M348.56,765H351l-1.21,2.11Zm1.21-3.63-1.21,2.11H351Z" transform="translate(-281.8 -17.52)" style="fill:#63666a"/>
+               <path d="M371.7,731.76h2.42l-1.21,2.08Zm1.21-3.56-1.21,2.08h2.42Z" transform="translate(-281.8 -17.52)" style="fill:#63666a"/>
+               <path d="M371.7,742.69h2.42l-1.21,2.08Zm1.21-3.56-1.21,2.08h2.42Z" transform="translate(-281.8 -17.52)" style="fill:#63666a"/>
+               <path d="M371.7,753.55h2.42l-1.21,2.08Zm1.21-3.56-1.21,2.08h2.42Z" transform="translate(-281.8 -17.52)" style="fill:#63666a"/>
+               <path d="M371.7,765.11h2.42l-1.21,2.08Zm1.21-3.56-1.21,2.08h2.42Z" transform="translate(-281.8 -17.52)" style="fill:#63666a"/>
+            </g>
+         </g>
+         <g id="Elevator-Prua">
+            <g id="Elevator-Prua-Icon">
+               <path d="M349.65,416.69h2.42l-1.21,2.12Zm1.21-3.62-1.21,2.11h2.42Z" transform="translate(-281.8 -17.52)" style="fill:#63666a"/>
+               <path d="M349.65,427.8h2.42l-1.21,2.11Zm1.21-3.63-1.21,2.11h2.42Z" transform="translate(-281.8 -17.52)" style="fill:#63666a"/>
+               <path d="M349.65,438.84h2.42L350.86,441Zm1.21-3.62-1.21,2.11h2.42Z" transform="translate(-281.8 -17.52)" style="fill:#63666a"/>
+               <path d="M349.65,450.13h2.42l-1.21,2.12Zm1.21-3.62-1.21,2.11h2.42Z" transform="translate(-281.8 -17.52)" style="fill:#63666a"/>
+               <path d="M372.11,416.9h2.41L373.31,419Zm1.2-3.56-1.2,2.08h2.41Z" transform="translate(-281.8 -17.52)" style="fill:#63666a"/>
+               <path d="M372.11,427.83h2.41l-1.21,2.08Zm1.2-3.56-1.2,2.08h2.41Z" transform="translate(-281.8 -17.52)" style="fill:#63666a"/>
+               <path d="M372.11,438.69h2.41l-1.21,2.08Zm1.2-3.56-1.2,2.08h2.41Z" transform="translate(-281.8 -17.52)" style="fill:#63666a"/>
+               <path d="M372.11,450.25h2.41l-1.21,2.08Zm1.2-3.56-1.2,2.08h2.41Z" transform="translate(-281.8 -17.52)" style="fill:#63666a"/>
+            </g>
+            <g id="Elevator-lines">
+               <polyline points="86.5 395.9 86.5 392.74 97.22 392.74 97.22 436.74 86.5 436.74 86.5 433.57" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+               <line x1="86.5" y1="406.9" x2="86.5" y2="400.99" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+               <line x1="86.5" y1="417.9" x2="86.5" y2="411.99" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+               <line x1="86.5" y1="429.45" x2="86.5" y2="423.26" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+               <line x1="97.17" y1="426.15" x2="86.54" y2="426.15" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+               <line x1="97.17" y1="414.87" x2="86.54" y2="414.87" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+               <line x1="97.17" y1="403.87" x2="86.54" y2="403.87" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+               <polyline points="73.84 395.9 73.84 392.74 63.12 392.74 63.12 436.74 73.84 436.74 73.84 433.57" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+               <line x1="73.84" y1="406.9" x2="73.84" y2="400.99" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+               <line x1="73.84" y1="417.9" x2="73.84" y2="411.99" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+               <line x1="73.84" y1="429.45" x2="73.84" y2="423.26" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+               <line x1="63.06" y1="426.15" x2="73.91" y2="426.15" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+               <line x1="63.06" y1="414.87" x2="73.91" y2="414.87" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+               <line x1="63.06" y1="403.87" x2="73.91" y2="403.87" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+            </g>
+         </g>
+      </g>
+      <g id="Stairs">
+         <g id="Stairs-2" data-name="Stairs">
+            <line x1="50.1" y1="794.86" x2="45.28" y2="794.86" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="50.1" y1="793.78" x2="45.28" y2="793.78" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="50.1" y1="792.71" x2="45.28" y2="792.71" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="50.1" y1="791.63" x2="45.28" y2="791.63" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="50.1" y1="790.55" x2="45.28" y2="790.55" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="50.1" y1="789.47" x2="45.28" y2="789.47" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="50.1" y1="788.4" x2="45.28" y2="788.4" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="50.1" y1="787.32" x2="45.28" y2="787.32" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="50.28" y1="795.8" x2="50.28" y2="785.38" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         </g>
+         <g id="Stairs-3" data-name="Stairs">
+            <line x1="52.49" y1="708.2" x2="52.49" y2="713.26" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="51.41" y1="708.2" x2="51.41" y2="713.26" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="50.33" y1="708.2" x2="50.33" y2="713.26" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="49.26" y1="708.2" x2="49.26" y2="713.26" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="48.18" y1="708.2" x2="48.18" y2="713.26" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="47.1" y1="708.2" x2="47.1" y2="713.26" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="46.02" y1="708.2" x2="46.02" y2="713.26" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="44.95" y1="708.2" x2="44.95" y2="713.26" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+         </g>
+         <g id="Stairs-4" data-name="Stairs">
+            <line x1="68.39" y1="676.43" x2="73.88" y2="676.43" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="68.39" y1="677.51" x2="73.88" y2="677.51" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="68.39" y1="678.59" x2="73.88" y2="678.59" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="68.39" y1="679.67" x2="73.88" y2="679.67" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="68.39" y1="680.75" x2="73.88" y2="680.75" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="68.39" y1="681.82" x2="73.88" y2="681.82" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="68.39" y1="682.9" x2="73.88" y2="682.9" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="68.39" y1="683.98" x2="73.88" y2="683.98" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="85.6" y1="676.43" x2="90.62" y2="676.43" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="85.6" y1="677.51" x2="90.62" y2="677.51" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="85.6" y1="678.59" x2="90.62" y2="678.59" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="85.6" y1="679.67" x2="90.62" y2="679.67" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="85.6" y1="680.75" x2="90.62" y2="680.75" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="85.6" y1="681.82" x2="90.62" y2="681.82" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="85.6" y1="682.9" x2="90.62" y2="682.9" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="85.6" y1="683.98" x2="90.62" y2="683.98" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <polyline points="91.04 688.15 85.53 688.18 85.53 675.82" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+            <line x1="90.8" y1="688.11" x2="90.8" y2="672.69" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+            <polyline points="68.36 672.89 68.36 688.11 68.36 688.28 74.02 688.24 74.02 675.86" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         </g>
+         <g id="Stairs-Center">
+            <line x1="66.46" y1="772.85" x2="91.7" y2="772.85" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="66.46" y1="773.93" x2="91.7" y2="773.93" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="66.46" y1="775.01" x2="91.7" y2="775.01" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="66.46" y1="776.09" x2="91.7" y2="776.09" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="66.46" y1="777.17" x2="91.7" y2="777.17" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="66.46" y1="778.25" x2="91.7" y2="778.25" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="66.46" y1="779.33" x2="91.7" y2="779.33" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="66.46" y1="780.41" x2="91.7" y2="780.41" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="66.46" y1="781.49" x2="91.7" y2="781.49" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="66.46" y1="782.57" x2="91.7" y2="782.57" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="72.23" y1="772.84" x2="72.23" y2="784.7" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="85.53" y1="772.75" x2="85.53" y2="784.7" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="78.67" y1="771.48" x2="78.67" y2="782.59" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+            <line x1="91.7" y1="771.48" x2="91.7" y2="785.96" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+            <line x1="66.49" y1="771.48" x2="66.49" y2="785.96" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         </g>
+         <g id="Stairs-Prua">
+            <line x1="92.42" y1="373.1" x2="68.19" y2="373.1" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="92.42" y1="372.02" x2="68.19" y2="372.02" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="92.42" y1="370.95" x2="68.19" y2="370.95" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="92.42" y1="369.87" x2="68.19" y2="369.87" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="92.42" y1="368.79" x2="68.19" y2="368.79" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="92.42" y1="367.71" x2="68.19" y2="367.71" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="92.42" y1="366.63" x2="68.19" y2="366.63" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="92.42" y1="365.55" x2="68.19" y2="365.55" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="92.42" y1="364.47" x2="68.19" y2="364.47" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="92.42" y1="363.39" x2="68.19" y2="363.39" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="86.64" y1="373.19" x2="86.64" y2="361.25" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="73.87" y1="373.14" x2="73.87" y2="361.25" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.25px"/>
+            <line x1="80.46" y1="374.47" x2="80.46" y2="363.46" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+            <line x1="92.41" y1="377.44" x2="92.41" y2="359.45" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+            <line x1="68.17" y1="377.44" x2="68.17" y2="359.45" style="fill:none;stroke:#63666a;stroke-miterlimit:10;stroke-width:0.5px"/>
+         </g>
+      </g>
+   </g>
+</svg>"
         }, {
             "path": "/content/dam/deck-plan/sm/SMERALDA-DECK-04-edited.svg",
             "backPath": "/content/dam/deck-plan/sm/SMERALDA-DECK-04-DOWN-edited.svg",
