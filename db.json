@@ -1,19 +1,88 @@
 {
-  "Post": {
-    "title": { "string": {} },
-    "comments": {
-      "hasMany": "Comment"
-    }
-  },
-  "Comment": {
-    "body": { "string": {} },
-    "post": {
-      "belongsTo": "Post"
-    }
-  },
-  "user":{
-    "id":1,
-    "firstName":"Gabriele",
-    "lastName":"Puce"
-  }
+    "profileList": {
+        "profile_sx": "/content/dam/deck-plan/sm/profile_sx.svg",
+        "profile_dx": "/content/dam/deck-plan/sm/profile_dx.svg"
+    },
+    "deckList": [{
+            "path": "/content/dam/deck-plan/sm/SMERALDA-DECK-03-edited.svg",
+            "backPath": "/content/dam/deck-plan/sm/SMERALDA-DECK-03-DOWN-edited.svg",
+            "title": "Deck 03",
+            "deckNumber": "03"
+        }, {
+            "path": "/content/dam/deck-plan/sm/SMERALDA-DECK-04-edited.svg",
+            "backPath": "/content/dam/deck-plan/sm/SMERALDA-DECK-04-DOWN-edited.svg",
+            "title": "Deck 04",
+            "deckNumber": "04"
+        }, {
+            "path": "/content/dam/deck-plan/sm/SMERALDA-DECK-05-edited.svg",
+            "backPath": "/content/dam/deck-plan/sm/SMERALDA-DECK-05-DOWN-edited.svg",
+            "title": "Deck 05",
+            "deckNumber": "05"
+        }, {
+            "path": "/content/dam/deck-plan/sm/SMERALDA-DECK-06-edited.svg",
+            "backPath": "/content/dam/deck-plan/sm/SMERALDA-DECK-06-DOWN-edited.svg",
+            "title": "Deck 06",
+            "deckNumber": "06"
+        }, {
+            "path": "/content/dam/deck-plan/sm/SMERALDA-DECK-07-edited.svg",
+            "backPath": "/content/dam/deck-plan/sm/SMERALDA-DECK-07-DOWN-edited.svg",
+            "title": "Deck 07",
+            "deckNumber": "07"
+        }, {
+            "path": "/content/dam/deck-plan/sm/SMERALDA-DECK-08-edited.svg",
+            "backPath": "/content/dam/deck-plan/sm/SMERALDA-DECK-08-DOWN-edited.svg",
+            "title": "Deck 08",
+            "deckNumber": "08"
+        }, {
+            "path": "/content/dam/deck-plan/sm/SMERALDA-DECK-09.svg",
+            "backPath": "/content/dam/deck-plan/sm/SMERALDA-DECK-09.svg",
+            "title": "Deck 09",
+            "deckNumber": "09"
+        }, {
+            "path": "/content/dam/deck-plan/sm/SMERALDA-DECK-10.svg",
+            "backPath": "/content/dam/deck-plan/sm/SMERALDA-DECK-10.svg",
+            "title": "Deck 10",
+            "deckNumber": "10"
+        }, {
+            "path": "/content/dam/deck-plan/sm/SMERALDA-DECK-11.svg",
+            "backPath": "/content/dam/deck-plan/sm/SMERALDA-DECK-11.svg",
+            "title": "Deck 11",
+            "deckNumber": "11"
+        }, {
+            "path": "/content/dam/deck-plan/sm/SMERALDA-DECK-12.svg",
+            "backPath": "/content/dam/deck-plan/sm/SMERALDA-DECK-12.svg",
+            "title": "Deck 12",
+            "deckNumber": "12"
+        }, {
+            "path": "/content/dam/deck-plan/sm/SMERALDA-DECK-14.svg",
+            "backPath": "/content/dam/deck-plan/sm/SMERALDA-DECK-14.svg",
+            "title": "Deck 14",
+            "deckNumber": "14"
+        }, {
+            "path": "/content/dam/deck-plan/sm/SMERALDA-DECK-15.svg",
+            "backPath": "/content/dam/deck-plan/sm/SMERALDA-DECK-15.svg",
+            "title": "Deck 15",
+            "deckNumber": "15"
+        }, {
+            "path": "/content/dam/deck-plan/sm/SMERALDA-DECK-16-edited.svg",
+            "backPath": "/content/dam/deck-plan/sm/SMERALDA-DECK-16-DOWN-edited.svg",
+            "title": "Deck 16",
+            "deckNumber": "16"
+        }, {
+            "path": "/content/dam/deck-plan/sm/SMERALDA-DECK-17.svg",
+            "backPath": "/content/dam/deck-plan/sm/SMERALDA-DECK-17.svg",
+            "title": "Deck 17",
+            "deckNumber": "17"
+        }, {
+            "path": "/content/dam/deck-plan/sm/SMERALDA-DECK-18-edited.svg",
+            "backPath": "/content/dam/deck-plan/sm/SMERALDA-DECK-18-DOWN-edited.svg",
+            "title": "Deck 18",
+            "deckNumber": "18"
+        }, {
+            "path": "/content/dam/deck-plan/sm/SMERALDA-DECK-19-edited.svg",
+            "backPath": "/content/dam/deck-plan/sm/SMERALDA-DECK-19-DOWN-edited.svg",
+            "title": "Deck 19",
+            "deckNumber": "19"
+        }
+    ]
 }
