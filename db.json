@@ -1,7 +1,7 @@
 {
   Data: {
-    Id: "string",
-    Name: "string",
+    Id: "test-id",
+    Name: "test",
     EnableEventTraker: {
       view: true,
       edit: true,
