@@ -2,48 +2,41 @@
   "Data": {
     "Id": "string",
     "Name": "string",
-    "EnableEventTraker": [
+    "EnableEventTraker":
       {
         "View": true,
         "Edit": true
-      }
-    ],
-    "EnableContents": [
+      },
+    "EnableContents":
       {
       "View": true,
       "Edit": true
-      }
-    ],
-    "EnableDigitalAsset": [
+      },
+    "EnableDigitalAsset":
       {
         "View": true,
         "Edit": true
-      }
-    ],
-    "EnableNotification": [
+      },
+    "EnableNotification":
       {
         "View": true,
         "Edit": true
-      }
-    ],
-    "EnableSurvey": [
+      },
+    "EnableSurvey":
       {
         "View": true,
         "Edit": true
-      }
-    ],
-    "EnableAdmin": [
+      },
+    "EnableAdmin":
       {
         "View": true,
         "Edit": true
-      }
-    ],
-    "EnableInteraction": [
+      },
+    "EnableInteraction":
       {
         "View": true,
         "Edit": true
-      }
-    ],
+      },
     "BrandsEnabled": [
       "P", "M", "KS", "C", "O"
     ],
