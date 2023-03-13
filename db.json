@@ -1,166 +1,56 @@
 {
-  "data": [
-    {
-      "PartitionKey": "book_appointment",
-      "RowKey": "book_appointment-PR-email-Ecommerce-US-es_ES",
-      "count_lang": "US-es_ES",
-      "msg_firstsentence": "Deseamos informarle de que haremos todo lo posible para que el artículo de su interés esté disponible específicamente para su visita.",
-      "msg_thirdsentence": "En caso de resultarle imposible asistir a la cita, por favor, le pedimos informe a la tienda seleccionada, la cual le ayudará a fijar un nuevo encuentro.",
-      "msg_fourthsentence": "Por último, le invitamos a mencionar el siguiente código de reserva <strong>{% if bookId is not empty %}{{bookId}}{% endif %}</strong> al momento de su visita a la tienda. Quedamos a la espera de darle la bienvenida en la fecha seleccionada para ofrecerle toda la aistencia necesaria. ",
-      "msg_regards": "Atentamente,",
-      "msg_regards_clientservice": "Servicio de atención al cliente de Prada",
-      "scenario": "Ecommerce",
-      "brand": "PR",
-      "channel": "email",
-      "country": "US",
-      "language": "es_ES",
-      "msg_hello_dear": "Estimado/a",
-      "msg_hello_customer": "client",
-      "msg_thankyou": "Le agradecemos por su interés en nuestros productos y por habernos contactado.",
-      "msg_facebook": "Facebook",
-      "msg_instagram": "Instagram",
-      "msg_linkedin": "Linkedin",
-      "msg_twitter": "Twitter",
-      "msg_tag": "?utm_source=transactional&utm_medium=mail&utm_campaign=pr_book-appointment",
-      "msg_itemsubtotal_summary": "Total parcial\n"
-    },
-    {
-      "PartitionKey": "aaaa",
-      "RowKey": "aaaa",
-      "event": "EVTBB_TestTemplate",
-      "ctx": "{\"msg_request_password\":\"string220\", \"msg_secondsentence2\":\"string220\", \"msg_resetpassword2\":\"string220\", \"msg_firstsentence2\":\"string220\", \"msg_hello_customer2\":\"string220\", \"msg_price\":\"string220\"}"
-    },
-    {
-      "PartitionKey": "book_appointment",
-      "RowKey": "book_appointment-PR-email-Ecommerce-AE-ar_EG",
-      "count_lang": "AE-ar_EG",
-      "msg_firstsentence": "We wish to inform you that the item of your interest will be kept at your disposal specifically for your visit.",
-      "msg_secondsentence": "We would like to remind you as well that once the appointment date is expired, the item reservation is cancelled. ",
-      "msg_thirdsentence": "Should it not be possible for you to attend the appointment, we kindly ask you to inform the chosen Store, that will assist you by booking a new visit.",
-      "msg_fourthsentence": "Lastly, we kindly invite you to mention the following booking code {% if bookId is not empty %}{{bookId}}{% endif %} upon your visit to the Store. We look forward to welcoming you on the selected date to provide you with all the assistance you need.",
-      "msg_regards": "Best Regards,",
-      "msg_regards_clientservice": "Prada Client Service",
-      "scenario": "Ecommerce",
-      "brand": "PR",
-      "channel": "email",
-      "country": "AE",
-      "language": "ar_EG",
-      "msg_hello_dear": "Dear",
-      "msg_hello_customer": "client",
-      "msg_thankyou": "Thank you for your interest in our products and for contacting us.",
-      "msg_facebook": "Facebook",
-      "msg_instagram": "Instagram",
-      "msg_linkedin": "Linkedin",
-      "msg_twitter": "Twitter",
-      "msg_tag": "?utm_source=transactional&utm_medium=mail&utm_campaign=pr_book-appointment",
-      "msg_itemsubtotal_summary": "Subtotal",
-      "msg_price": "PRICE",
-      "msg_principaltext": "We have received your appointment request, that has been registered with number ",
-      "msg_selecteddate": "Selected date:",
-      "msg_timeslot": "Time slot:",
-      "msg_mail": "Mail:",
-      "msg_productdetails": "Product details:",
-      "msg_itemname": "PRODUCT",
-      "msg_itemcode": "PRODUCT CODE",
-      "msg_itemcolor": "COLOR",
-      "msg_itemsize": "SIZE",
-      "msg_itemprice": "FINAL PRICE",
-      "msg_storename": "Boutique:",
-      "msg_telephone": "Telephone: ",
-      "msg_itemquantity": "QUANTITY",
-      "msg_total": "Total:",
-      "msg_reason": "Reason",
-      "msg_collection": "Collection",
-      "msg_additional_info": "Additional Info",
-      "msg_calendarUrl": "Add the appointment to your calendar"
-    },
-    {
-      "PartitionKey": "book_appointment",
-      "RowKey": "book_appointment-PR-email-Ecommerce-AE-en_US",
-      "count_lang": "AE-en_US",
-      "msg_firstsentence": "We wish to inform you that the item of your interest will be kept at your disposal specifically for your visit.",
-      "msg_secondsentence": "We would like to remind you as well that once the appointment date is expired, the item reservation is cancelled. ",
-      "msg_thirdsentence": "Should it not be possible for you to attend the appointment, we kindly ask you to inform the chosen Store, that will assist you by booking a new visit.",
-      "msg_fourthsentence": "Lastly, we kindly invite you to mention the following booking code <strong>{% if bookId is not empty %}{{bookId}}{% endif %}</strong> upon your visit to the Store. We look forward to welcoming you on the selected date to provide you with all the assistance you need.",
-      "msg_regards": "Best Regards,",
-      "msg_regards_clientservice": "Prada Client Service",
-      "scenario": "Ecommerce",
-      "brand": "PR",
-      "channel": "email",
-      "country": "AE",
-      "language": "en_US",
-      "msg_hello_dear": "Dear",
-      "msg_hello_customer": "client",
-      "msg_thankyou": "Thank you for your interest in our products and for contacting us.",
-      "msg_facebook": "Facebook",
-      "msg_instagram": "Instagram",
-      "msg_linkedin": "Linkedin",
-      "msg_twitter": "Twitter",
-      "msg_tag": "?utm_source=transactional&utm_medium=mail&utm_campaign=pr_book-appointment",
-      "msg_itemsubtotal_summary": "Subtotal",
-      "msg_price": "PRICE",
-      "msg_principaltext": "We have received your appointment request, that has been registered with number ",
-      "msg_selecteddate": "Selected date:",
-      "msg_timeslot": "Time slot:",
-      "msg_mail": "Mail:",
-      "msg_productdetails": "Product details:",
-      "msg_itemname": "PRODUCT",
-      "msg_itemcode": "PRODUCT CODE",
-      "msg_itemcolor": "COLOR",
-      "msg_itemsize": "SIZE",
-      "msg_itemprice": "FINAL PRICE",
-      "msg_storename": "Boutique:",
-      "msg_telephone": "Telephone: ",
-      "msg_itemquantity": "QUANTITY",
-      "msg_total": "Total:",
-      "msg_reason": "Reason",
-      "msg_collection": "Collection",
-      "msg_additional_info": "Additional Info",
-      "msg_calendarUrl": "Add the appointment to your calendar"
-    },
-    {
-      "PartitionKey": "book_appointment",
-      "RowKey": "book_appointment-PR-email-Ecommerce-AT-de_DE",
-      "count_lang": "AT-de_DE",
-      "msg_firstsentence": "Wir mö chten Sie darüber informieren, dass das von Ihnen ausgewählte Produkt zu Ihrem vereinbarten Termin für Sie verfügbar sein wird. Sollte der Termin ablaufen, verfällt die Buchung.",
-      "msg_secondsentence": "Sollte der Termin ablaufen, verfällt die Buchung.",
-      "msg_thirdsentence": "Sollte es Ihnen nicht mö glich sein den Termin einzuhalten, bitten wir Sie den jeweiligen Store zu kontaktieren, welcher gerne einen neuen Termin mit Ihnen vereinbaren wird.",
-      "msg_fourthsentence": "Bitte erwähnen Sie folgenden Code <strong>{% if bookId is not empty %}{{bookId}}{% endif %}</strong> sobald Sie den jeweiligen Store besuchen. Wir freuen uns auf Ihren Besuch am gewählten Datum, um Ihnen die nö tige Unterstützung anzubieten.",
-      "msg_regards": "Mit freundlichen Grüßen",
-      "msg_regards_clientservice": "Prada Kundenservice",
-      "scenario": "Ecommerce",
-      "brand": "PR",
-      "channel": "email",
-      "country": "AT",
-      "language": "de_DE",
-      "msg_hello_dear": "Sehr geehrte(r)",
-      "msg_hello_customer": "client",
-      "msg_thankyou": "Vielen dank für ihr interesse in unsere produkte und für ihre kontaktaufnahme.",
-      "msg_facebook": "Facebook",
-      "msg_instagram": "Instagram",
-      "msg_linkedin": "Linkedin",
-      "msg_twitter": "Twitter",
-      "msg_tag": "?utm_source=transactional&utm_medium=mail&utm_campaign=pr_book-appointment",
-      "msg_itemsubtotal_summary": "Zwischensumme",
-      "msg_price": "PREIS",
-      "msg_principaltext": "Wir haben Ihre Terminanfrage erhalten und unter der Nummer registriert",
-      "msg_selecteddate": "Ausgewähltes Datum:",
-      "msg_timeslot": "Zeitfenster:",
-      "msg_mail": "Mail:",
-      "msg_productdetails": "Produktdetails:",
-      "msg_itemname": "PRODUKT",
-      "msg_itemcode": "PRODUKTCODE",
-      "msg_itemcolor": "FARBE",
-      "msg_itemsize": "GRÖDDE",
-      "msg_itemprice": "GESAMTSUMME",
-      "msg_storename": "Boutique:",
-      "msg_telephone": "Téléphone:",
-      "msg_itemquantity": "MENGE",
-      "msg_total": "Gesamtpreis:",
-      "msg_reason": "Reason",
-      "msg_collection": "Collection",
-      "msg_additional_info": "Additional Info",
-      "msg_calendarUrl": "Add the appointment to your calendar"
-    }
-  ]
+  "Data": {
+    "Id": "string",
+    "Name": "string",
+    "EnableEventTraker": [
+      {
+        "View": true,
+        "Edit": true
+      }
+    ],
+    "EnableDigitalAsset": [
+      {
+        "View": true,
+        "Edit": true
+      }
+    ],
+    "EnableNotification": [
+      {
+        "View": true,
+        "Edit": true
+      }
+    ],
+    "EnableSurvey": [
+      {
+        "View": true,
+        "Edit": true
+      }
+    ],
+    "EnableAdmin": [
+      {
+        "View": true,
+        "Edit": true
+      }
+    ],
+    "EnableInteraction": [
+      {
+        "View": true,
+        "Edit": true
+      }
+    ],
+    "BrandsEnabled": [
+      "P", "M", "KS", "C", "O"
+    ],
+    "CountryEnabled": [
+      "string"
+    ],
+    "CategoryEnabled": [
+      "string"
+    ],
+    "IsAuthenticated": true
+  },
+  "Error": {
+    "ErrorCode": 0,
+    "ErrorMessage": "string"
+  }
 }
