@@ -1,5 +1,5 @@
 {
-  Data: {
+  "Data": {
     Id: "test-id",
     Name: "test",
     EnableEventTraker: {
