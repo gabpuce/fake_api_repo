@@ -1,56 +1,31 @@
 {
-  "Data": {
-    "Id": "string",
-    "Name": "string",
-    "EnableEventTraker": [
-      {
-        "View": true,
-        "Edit": true
-      }
-    ],
-    "EnableDigitalAsset": [
-      {
-        "View": true,
-        "Edit": true
-      }
-    ],
-    "EnableNotification": [
-      {
-        "View": true,
-        "Edit": true
-      }
-    ],
-    "EnableSurvey": [
-      {
-        "View": true,
-        "Edit": true
-      }
-    ],
-    "EnableAdmin": [
-      {
-        "View": true,
-        "Edit": true
-      }
-    ],
-    "EnableInteraction": [
-      {
-        "View": true,
-        "Edit": true
-      }
-    ],
-    "BrandsEnabled": [
-      "P", "M", "KS", "C", "O"
-    ],
-    "CountryEnabled": [
-      "string"
-    ],
-    "CategoryEnabled": [
-      "string"
-    ],
-    "IsAuthenticated": true
+  Data: {
+    Id: "string",
+    Name: "string",
+    EnableEventTraker: {
+      view: true,
+      edit: true,
+    },
+    EnableContents: {
+      view: true,
+      edit: true,
+    },
+    EnableNotification: {
+      view: true,
+      edit: true,
+    },
+    EnableSurvey: {
+      view: true,
+      edit: true,
+    },
+    EnableAdmin: {
+      view: true,
+      edit: true,
+    },
+    BrandsEnabled: ["P", "M", "KS", "C", "O"],
+    CountryEnabled: ["string"],
+    CategoryEnabled: ["string"],
+    IsAuthenticated: true,
   },
-  "Error": {
-    "ErrorCode": 0,
-    "ErrorMessage": "string"
-  }
+  Error: { ErrorCode: 0, ErrorMessage: "string" },
 }
